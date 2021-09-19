@@ -1,0 +1,136 @@
+
+	header {
+		background: #48A9B0 url("uqu10.png") no-repeat top;
+		
+		width: 100%;
+		height: 100px;	
+	}	
+	
+	#header {	
+		width: 100%;
+		height: 10px;
+		background-color: 	#DCDCDC;
+	}	
+	footer{
+		background: #48A9B0 url("uqu11.png") no-repeat top;
+		width: 100%;
+		height: 100px;	
+	}	
+	#footer {	
+	
+		width: 100%;
+		height: 100px;
+		background-color: #DCDCDC;
+	}	
+	
+	
+	
+
+
+tr{
+ padding: 8px;
+  text-align: center;
+  background-color:#DCDCDC ;
+  color: #383838;
+}
+header {
+		background: #48A9B0 url("uqu10.png") no-repeat top;
+		
+		width: 100%;
+		height: 100px;	
+	}	
+	
+	#header {	
+		width: 100%;
+		height: 10px;
+		background-color: 	#DCDCDC;
+	}	
+	#sign_box{
+		width: 950px;
+        height: 550px;
+		background: #48A9B0 url("logn imge10.png") no-repeat;
+		background-size: cover;
+		margin: 70 auto;
+		//background-color: #48A9B0 ;
+		border: 1px solid #DCDCDC;
+
+	}	
+	#sign_box #sign_form{
+				margin: 120 auto;
+				margin-left: 720px;
+				font-color: white;
+		
+	}
+	
+	
+	header {
+		background: #48A9B0 url("uqu10.png") no-repeat top;
+		
+		width: 100%;
+		height: 100px;	
+	}	
+	
+	#header {	
+		width: 100%;
+		height: 10px;
+		background-color: 	#DCDCDC;
+	}	
+	#sign_box{
+		width: 950px;
+        height: 550px;
+		background: #48A9B0 url("logn imge10.png") no-repeat;
+		background-size: cover;
+		margin: 70 auto;
+		//background-color: #48A9B0 ;
+		border: 1px solid #DCDCDC;
+
+	}	
+	#sign_box #sign_form{
+				margin: 120 auto;
+				margin-left: 720px;
+				font-color: white;
+		
+	}
+	
+	
+  .container {
+	  
+	  width: 30%;
+	  border-left: 6px solid #48A9B0;
+      background-color: #d6f5f5;
+}
+	
+input[type=text] {
+ 
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #48A9B0;
+  background-color: #f8f8f8;
+  
+}
+
+textarea {
+  width: 80%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 1px solid #48A9B0;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+
+input[type=button], input[type=submit], input[type=reset],input[type=file] {
+  background-color: #48A9B0;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 12px 12px;
+  cursor: pointer;
+}
+	
+	
+	 
